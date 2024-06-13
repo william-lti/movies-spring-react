@@ -19,5 +19,7 @@ The original project is from [fhsinchy/movieist](https://github.com/fhsinchy/mov
 - **Database**: MongoDB Atlas
 - **HTTP Client**: Axios
 
-
+## Resources
+- **https://start.spring.io/**
+- **https://github.com/Ashald/EnvFile/blob/develop/README.md**
 ---
